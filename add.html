@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <label>Item 1:</label>
+    <input type="number" class="quantity" data-price="10" />
+    <span class="">Total: $0</span>
+  </div>
+  <div>
+    <label>Item 2:</label>
+    <input type="number" class="quantity" data-price="15" />
+    <span class="">Total: $0</span>
+  </div>
+  <div>
+    <label>Item 3:</label>
+    <input type="number" class="quantity" data-price="5" />
+    <span class="">Total: $0</span>
+  </div>
+  <!-- Add more items as needed -->
+  <script>
+    // Get all the quantity input elements and add event listener for 'keyup' event
+    const quantityInputs = document.querySelectorAll('.quantity');
+    quantityInputs.forEach(input => {
+      input.addEventListener('keyup', updateTotal);
+    });
+  
+    // Function to update the total whenever quantity changes
+    function updateTotal() {
+      const quantity = parseInt(this.value) || 0; // Convert the input value to a number or set to 0 if NaN
+      const price = parseInt(this.dataset.price) || 0; // Get the price from the 'data-price' attribute or set to 0 if NaN
+      const total = quantity * price;
+      
+      // Update the total value in the corresponding result span element
+      this.nextElementSibling.textContent = `Total: $${total}`;
+    }
+  </script>
+  
+</body>
+</html>
