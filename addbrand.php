@@ -10,7 +10,7 @@
 <h4>Brand ADD</h4>
 <h6>Create new Brand</h6>
 </div>
-</div>
+</div> 
 
 <div class="card">
 <div class="card-body">
