@@ -8,7 +8,7 @@
 <div class="page-title">
 <h4>Add Sale</h4>
 <h6>Add your new sale</h6>
-</div>
+</div> 
 </div>
 <div class="card">
 <div class="card-body">
