@@ -8,7 +8,7 @@
 <h4>All Notifications</h4>
 <h6>View your all activities</h6>
 </div>
-</div>
+</div> 
 
 <div class="activity">
 <div class="activity-box">
