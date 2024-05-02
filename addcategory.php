@@ -7,7 +7,7 @@
 <div class="page-header">
 <div class="page-title">
 <h4>Product Add Category</h4>
-<h6>Create new product Category</h6>
+<h6>Create new product Category</h6> 
 </div>
 </div>
 
