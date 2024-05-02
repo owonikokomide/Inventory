@@ -7,7 +7,7 @@ if($_SESSION['loginadmin'] !="true"){
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 <meta name="description" content="POS - Bootstrap Admin Template">
