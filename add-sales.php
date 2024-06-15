@@ -100,7 +100,7 @@
 <td>2</td>
 <td class="productimgname">
 <a class="product-img">
-<img src="assets/img/product/product8.jpg" alt="product">
+<img src="assets/img/product/product8.jpg" alt="product"> 
 </a>
 <a href="javascript:void(0);">iPhone 11</a>
 </td>
