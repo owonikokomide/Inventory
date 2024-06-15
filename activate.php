@@ -9,7 +9,7 @@
 <div class="page-title">
 <h4>Account Setup/Activation</h4>
 <!-- <h6>Add/Update User</h6> --> 
-</div>
+</div> 
 </div>
 <form action="" method="POST">
 <?php
