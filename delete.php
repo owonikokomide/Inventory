@@ -8,7 +8,7 @@ $delid = $_GET['delid'];
 // DELETE FROM `products` WHERE 0
 
 $delete = mysqli_query($connection,"DELETE FROM products WHERE proid='$delid' ");
-
+ 
 if($delete){
 
 echo "<script>
