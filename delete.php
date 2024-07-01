@@ -15,7 +15,7 @@ echo "<script>
     alert('Product Deleted Successfully');
     location.href='productlist.php';
  </script>";
-
+ 
 }
 else{
   echo "<script>
