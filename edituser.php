@@ -10,7 +10,7 @@ $select = mysqli_query($connection,"select * from user where id='$userid' ");
 $row = mysqli_fetch_array($select);
 
 
-  
+   
 ?>
 
 <div class="page-wrapper">
