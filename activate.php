@@ -6,7 +6,7 @@
 <div class="page-wrapper">
 <div class="content">
 <div class="page-header">
-<div class="page-title">
+<div class="page-title"> 
 <h4>Account Setup/Activation</h4>
 <!-- <h6>Add/Update User</h6> --> 
 </div> 
