@@ -9,7 +9,7 @@
 <h4>Product Add Category</h4>  
 <h6>Create new product Category</h6>  
 </div>
-</div>
+</div> 
 
 <div class="card">
 <div class="card-body">
