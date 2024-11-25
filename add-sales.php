@@ -5,7 +5,7 @@
 <div class="page-wrapper">
 <div class="content">
 <div class="page-header">
-<div class="page-title">
+<div class="page-title"> 
 <h4>Add Sale</h4>
 <h6>Add your new sale</h6>
 </div> 
