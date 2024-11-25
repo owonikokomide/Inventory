@@ -7,7 +7,7 @@
 
 <div class="page-wrapper">
 <div class="content">
-<div class="page-header">
+<div class="page-header"> 
 <div class="page-title">
 <h4>Customer Management</h4> 
 <h6>Add/Update Customer</h6>
