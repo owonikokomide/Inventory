@@ -8,7 +8,7 @@
 <div class="page-header">
 <div class="page-title">
 <h4>Supplier Management</h4>
-<h6>Add/Update Customer</h6>
+<h6>Add/Update Customer</h6> 
 </div>
 </div>
 <form action="inc/validate.php" method="post">
