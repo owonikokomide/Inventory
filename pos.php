@@ -11,7 +11,7 @@ button#makesales:hover{
 }
   </style>
 <div class="page-wrapper">
-<div class="content">
+<div class="content"> 
 <div class="row">
 <div class="col-lg-6 col-sm-12 tabs_wrapper">
 <div class="page-header ">
